@@ -1,0 +1,19 @@
+* {
+    text-align: center;
+    color: #F8B54C;
+    font-size: larger;
+}
+
+h1 {
+    font-size: 220%;
+    text-shadow: 2px 2px #AB7D41;
+}
+
+h2 {
+    font-size: 150%;
+    text-shadow: 2px 2px #AB7D41;
+}
+
+img {
+    width: 50%;
+}
